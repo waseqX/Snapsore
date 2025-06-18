@@ -3,7 +3,7 @@
 SnapStore is a modern e-commerce web application built with Next.js. It includes product listings, product detail pages, a wishlist feature, and a dashboard for managing the store.
 
 ---
-
+.
 ## 🚀 Features
 
 - 🧾 Product listing and detail pages  
